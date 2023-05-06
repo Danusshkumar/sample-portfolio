@@ -41,9 +41,16 @@ h3 {
     font-weight:bold;
 }
 
+.aboutMe {
+    width : 50%;
+    margin : 0 auto;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .my-photo {
     height:200px;
-    width:200px;
+    width:170px;
     border-radius: 100px;
 }
 
