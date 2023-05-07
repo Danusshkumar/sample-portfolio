@@ -3,9 +3,14 @@
 
 Welcome to my portfolio website, where you can find out more about me and my projects. 
 
+## Depolyment 
+
+  You can see the live website here https://danusshkumar.github.io/sample-portfolio
+
 ## About Me
 
 I am a web developer with a passion for creating beautiful and functional websites. I have experience in HTML, CSS, JavaScript, React, Node.js, MongoDB and more. I also enjoy learning new technologies and exploring new challenges.
+
 
 ## Contact Me
 
